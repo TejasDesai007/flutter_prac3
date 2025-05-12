@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394401398680",
+    "project_id": "soloz-2139c",
+    "storage_bucket": "soloz-2139c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394401398680:android:da403afe811e949770b5ed",
+        "android_client_info": {
+          "package_name": "com.ecommerce.soloz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCshe7-O9huJq5soG-3mWFlRrPxCjvopH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
